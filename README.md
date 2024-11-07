@@ -43,8 +43,8 @@ plt.xlabel(farsi('عرض جغرافیایی'))
 plt.ylabel(farsi('طول جغرافیایی'))
 plt.show()
 ```
-## Read Population Data
+## Read City Data
 Population data is read from a CSV file, which includes city names and their geographical coordinates.
 
-## Scatter Cities on the map
+## Plot the Cities on the map
 Cities are plotted on the map, with their sizes reflecting population, accompanied by Persian text labels for each city.
